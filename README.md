@@ -45,7 +45,6 @@ https://civitai.com/models/306814
 <ul>
   <li>ComfyUI installed</li>
   <li>Python 3.11</li>
-  <li>Dependencies: listed in requirements.txt</li>
 </ul>
 
 
